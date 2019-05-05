@@ -24,3 +24,6 @@ class TestMessage():
 		
 	def test_new(self):
 		print("新增")
+	def test_02(self):
+		print("第二次新增")
+		
