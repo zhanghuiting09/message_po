@@ -21,5 +21,6 @@ class TestMessage():
         self.page.new_message.receive_person(recive)
         self.page.new_message.send_message(message)
         self.page.new_message.click_send_button()
-
-
+		
+	def test_new(self):
+		print("新增")
